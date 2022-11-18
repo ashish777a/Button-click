@@ -56,7 +56,8 @@ input{
     border: 3px solid;
     border-radius: 50px;
     /* transition: left 0.3 ease-out; */
-    background-color:blue;
+    /* background-color:blue; */
+    background-color: darkseagreen;
 }
 .box .right::before{
     content: '';
